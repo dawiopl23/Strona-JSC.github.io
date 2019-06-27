@@ -1,0 +1,21 @@
+html{
+	background: url("tlo2.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+a{
+  background-color: #AF4C50; /* Red */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.container{
+	text-align: center;
+	margin-left: 43%;
+	margin-top: 25%;
+}
